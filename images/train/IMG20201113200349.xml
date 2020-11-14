@@ -1,0 +1,25 @@
+<annotation>
+  <folder></folder>
+  <filename>IMG20201113200349.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>3120</width>
+    <height>4160</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Nezuko</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>1181.43</xmin>
+      <ymin>1053.04</ymin>
+      <xmax>2433.28</xmax>
+      <ymax>3081.68</ymax>
+    </bndbox>
+  </object>
+</annotation>

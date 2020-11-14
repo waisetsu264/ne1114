@@ -1,0 +1,35 @@
+<annotation>
+  <folder></folder>
+  <filename>IMG20201113200732.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>4160</width>
+    <height>3120</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Nezuko</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>1824.85</xmin>
+      <ymin>1015.96</ymin>
+      <xmax>2643.37</xmax>
+      <ymax>2205.22</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Inosuke</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>2840.78</xmin>
+      <ymin>1420.41</ymin>
+      <xmax>3524.48</xmax>
+      <ymax>2441.15</ymax>
+    </bndbox>
+  </object>
+</annotation>
